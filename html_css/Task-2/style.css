@@ -1,0 +1,27 @@
+/* This is Css file for webpage*/
+
+h1 {
+    background-color: #00ffff;
+    text-align: center;
+    color: rgb(41, 41, 131);
+}
+
+p {
+    color: rgb(22, 21, 21);
+    text-align: justify;
+    width: 110px;
+    background-color: rgb(114, 119, 67);
+    font-size: medium;
+}
+
+.rose {
+    color: rgb(226, 226, 226);
+    text-align: center;
+    width: 100px;
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: rgb(25, 104, 124);
+    background-image: url("./rose.jpg");
+}

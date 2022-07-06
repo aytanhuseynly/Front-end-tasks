@@ -1,0 +1,33 @@
+    body {
+        background-color: yellow;
+        overflow: hidden;
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    div {
+        height: 40vh;
+        background-color: rgb(46, 138, 6);
+        overflow: hidden;
+        border: 5px solid lime;
+    }
+    
+    .first {
+        width: 40px;
+        height: 30px;
+        background-color: aliceblue;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        padding: 10px;
+    }
+    
+    .sec {
+        background-color: aliceblue;
+        margin-right: 10px;
+        padding: 10px;
+    }
+    
+    .thi {
+        background-color: aliceblue;
+        padding: 10px;
+    }
