@@ -4,17 +4,22 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sum of natural nums</title>
+    <title>Pow function</title>
 </head>
 <body>
-  <script>
-let number =parseInt(prompt('Enter integer: '))
-let sum=0;
-    
-   if (number > 0 )
-   sum+=number
-   alert(` ${sum}`); 
-   </script> 
+    <script>
 
+function getPower(a,b)
+{ 
+    return a**b;
+}
+let a = Number(prompt(`Enter a: `));
+let b = Number(prompt(`Enter b: `));
+getPower(a,b)
+alert(getPower(a,b));
+        
+    </script>
+ 
+    
 </body>
 </html>
