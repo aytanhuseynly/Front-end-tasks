@@ -1,0 +1,94 @@
+     body {
+         background-color: beige;
+     }
+     
+     header {
+         padding-top: 10px;
+         padding-bottom: 30px;
+         background-color: beige;
+         height: 70px;
+         font-weight: bold;
+         text-align: center;
+     }
+     
+     h4 {
+         font-size: 15px;
+         text-align: center;
+         color: rgb(94, 90, 90);
+         margin-top: -25px;
+     }
+     
+     .about {
+         text-align: center;
+     }
+     
+     .aboutus {
+         text-align: center;
+         font-weight: lighter;
+         font-size: small;
+     }
+     
+     .topnav {
+         overflow: hidden;
+         background-color: rgba(6, 38, 69, 0.871);
+         display: flex;
+         flex-flow: row;
+         gap: 20px;
+         font-weight: bold;
+     }
+     
+     .topnav a {
+         color: beige;
+         text-decoration: none;
+     }
+     
+     .topnav a:hover {
+         background-color: grey;
+     }
+     
+     .container {
+         display: flex;
+         flex-direction: row;
+     }
+     
+     .qamma {
+         text-align: justify;
+         width: 560px;
+         margin-top: 50px;
+     }
+     
+     .colleft {
+         float: left;
+         margin-left: 6px;
+     }
+     
+     .colmiddle {
+         margin-left: 20px;
+     }
+     
+     .colright {
+         margin-left: 40px;
+     }
+     
+     .alfa {
+         font-size: 15px;
+     }
+     
+     img {
+         width: 450px;
+         height: 600px;
+     }
+     
+     .end {
+         margin-left: 6px;
+     }
+     
+     footer {
+         margin-top: 20px;
+         font-weight: bold;
+     }
+     
+     .footer {
+         border: 3px solid rgb(10, 10, 22);
+         width: 250px;
+     }

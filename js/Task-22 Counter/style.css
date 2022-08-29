@@ -1,0 +1,33 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+      
+}
+
+#digit{
+    font-size: 100px;   
+    font-weight:bold;
+    padding-bottom:25px;     
+}
+.button_area{
+   gap:5px;
+   justify-content: center;
+}
+ .green{
+    color: green;
+ }
+
+ .red
+ {
+    color:red
+ }
+ 
+ .black
+ {
+    color:rgb(0, 0, 0);
+ }
