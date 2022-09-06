@@ -1,0 +1,13 @@
+.form
+{
+    display: flex;
+}
+#fruits
+{
+    margin-right: 5px;
+}
+
+#calcBtn
+{
+    background-color: rgb(177, 79, 167);
+}
