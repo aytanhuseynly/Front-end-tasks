@@ -7,12 +7,14 @@ let fruits=document.getElementById("fruits");
 calcBtn.addEventListener("click", function() {
 
 
-if (countInpt.value == "") {
+if (countInpt.value == "") 
+{
   
     alert("input digit!");
   }
-else{
-    if(document.querySelector("." + fruits.value).innerHTML == "")
+else
+{
+    if(document.querySelector("." + fruits.value).textContent == "")
     {
         document.querySelector("." + fruits.value).innerHTML += "<li> <span>" + countInpt.value + " </span> " + fruits.value + "</li>";
 
