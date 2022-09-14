@@ -1,0 +1,17 @@
+.true 
+{
+    color:  rgb(14, 238, 11);
+}
+
+.false
+{
+    color: rgb(224, 8, 8);
+}
+
+
+.container
+{ 
+background-color: beige;
+border: 2px solid black;
+width: 250px;
+}
